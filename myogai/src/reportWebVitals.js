@@ -1,3 +1,4 @@
+// Measures web performance metrics
 
 const reportWebVitals = onPerfEntry => {
   if (onPerfEntry && onPerfEntry instanceof Function) {
